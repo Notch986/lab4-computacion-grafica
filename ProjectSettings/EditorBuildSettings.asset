@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/esc2.unity
     guid: d412e61546d1a184da50e04689d7c1f4
+  - enabled: 1
+    path: Assets/Scenes/esc3pr.unity
+    guid: c4ea8a1a739aaf34e812bf56169160a3
+  - enabled: 1
+    path: Assets/Scenes/esc6il.unity
+    guid: 751e41d1de7281b4b811eae1bcb72b77
   m_configObjects: {}

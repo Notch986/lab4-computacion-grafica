@@ -54,7 +54,7 @@ public class movement1 : MonoBehaviour
         if (other.CompareTag("salida"))
         {
             // Cambia a la escena que quieras (por índice o nombre)
-            SceneManager.LoadScene(0); // Cambia al índice de escena 1 (ajústalo según tu configuración)
+            SceneManager.LoadScene(2); // Cambia al índice de escena 1 (ajústalo según tu configuración)
         }
     }
 }
